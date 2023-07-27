@@ -12,3 +12,10 @@ authors = ["davi"]
 [[bin]]
 name = "array"
 path = "anotes/array.rs"
+
+[[bin]]
+name = "loop"
+path = "anotes/loop.rs"
+[[bin]]
+name = "struct"
+path = "anotes/struct.rs"
