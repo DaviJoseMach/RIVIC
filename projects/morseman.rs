@@ -10,4 +10,8 @@ fn main() {
     println!("Seu codeName: ");
     io::stdin().read_line(&mut code).expect("Falha ao ler a entrada");
     println!("Bem vindo, senhor {} ({})", name.trim(), code.trim());
+
+    loop {
+        
+    }
 }
