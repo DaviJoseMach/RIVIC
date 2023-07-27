@@ -16,7 +16,7 @@ Principais características de Rust:
 
 ## Estrutura do Repositório
 
-- `/exemplos`: Nesta pasta, você encontrará exemplos de código curtos e focados em conceitos específicos de Rust. Cada exemplo é acompanhado de comentários explicativos.
+- `/anotes`: Nesta pasta, você encontrará exemplos de código curtos e focados em conceitos específicos de Rust. Cada exemplo é acompanhado de comentários explicativos.
 - `/projetos`: Aqui, estão os projetos mais completos, que envolvem múltiplos arquivos e funcionalidades. Cada projeto tem uma pasta própria com uma descrição detalhada e instruções de execução.
 - `/recursos`: Esta pasta armazena materiais de referência, tutoriais e links úteis para aprender mais sobre Rust.
 
