@@ -1,4 +1,4 @@
-# RIVIC - Repositório de Estudos de Rust
+# RIVIC - Repositório de Estudos de Rust.
 
 ![Rust Logo](https://www.rust-lang.org/logos/rust-logo-512x512.png)
 
