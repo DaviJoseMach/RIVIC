@@ -18,7 +18,6 @@ Principais características de Rust:
 
 - `/exemplos`: Nesta pasta, você encontrará exemplos de código curtos e focados em conceitos específicos de Rust. Cada exemplo é acompanhado de comentários explicativos.
 - `/projetos`: Aqui, estão os projetos mais completos, que envolvem múltiplos arquivos e funcionalidades. Cada projeto tem uma pasta própria com uma descrição detalhada e instruções de execução.
-- `/exercicios`: Contém uma série de exercícios e desafios para praticar conceitos específicos de Rust. Cada exercício é descrito em um arquivo separado.
 - `/recursos`: Esta pasta armazena materiais de referência, tutoriais e links úteis para aprender mais sobre Rust.
 
 ## Contribuindo

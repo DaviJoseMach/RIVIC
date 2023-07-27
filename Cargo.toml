@@ -1,7 +1,10 @@
 [package]
 name = "runvs"
 version = "0.1.0"
-
+authors = ["davi"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+ [[bin]]
+ name = "morseman"
+ path = "projects/morseman.rs"
