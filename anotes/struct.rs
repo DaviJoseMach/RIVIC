@@ -6,7 +6,7 @@ struct Pessoa {
 fn main(){
      // Criando uma instância da struct "Pessoa"
      let pessoa1 = Pessoa {
-        nome: String::from("Alice"),
+        nome: String::from("Sabino"),
         idade: 30,
     };
 
