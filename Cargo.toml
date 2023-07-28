@@ -8,7 +8,9 @@ authors = ["davi"]
  [[bin]]
  name = "morseman"
  path = "projects/morseman.rs"
-
+[[bin]]
+name = "calc"
+path = "projects/calc.rs"
 [[bin]]
 name = "array"
 path = "anotes/array.rs"
