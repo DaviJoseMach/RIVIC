@@ -12,9 +12,11 @@ authors = ["davi"]
 name = "calc"
 path = "projects/calc.rs"
 [[bin]]
+name = "conv"
+path = "projects/convert.rs"
+[[bin]]
 name = "array"
 path = "anotes/array.rs"
-
 [[bin]]
 name = "loop"
 path = "anotes/loop.rs"
