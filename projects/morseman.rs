@@ -1,4 +1,5 @@
 use std::io;
+use rand::RngCore;
 
 fn main() {
     print!("| BEM VINDO AO MORSEMAN | \n \n");

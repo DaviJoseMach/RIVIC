@@ -5,12 +5,18 @@ authors = ["davi"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
- [[bin]]
+rand = "0.8.5"
+#arquivos
+[[bin]]
  name = "morseman"
  path = "projects/morseman.rs"
 [[bin]]
 name = "calc"
 path = "projects/calc.rs"
+[[bin]]
+name = "adv"
+path = "projects/adv.rs"
+rand = "0.8.5"
 [[bin]]
 name = "conv"
 path = "projects/convert.rs"
