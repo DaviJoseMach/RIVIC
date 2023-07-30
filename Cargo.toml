@@ -17,6 +17,9 @@ path = "projects/calc.rs"
 name = "sen"
 path = "projects/sen.rs"
 [[bin]]
+name = "met"
+path = "projects/meter.rs"
+[[bin]]
 name = "adv"
 path = "projects/adv.rs"
 rand = "0.8.5"
